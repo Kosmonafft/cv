@@ -47,7 +47,7 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 ### **Observability Expert**  
 📍 **Lufthansa Industry Solutions, Hamburg**  
 🗓️ **January 2024 – Present**  
-- Leading **design and implementation** of observability solutions across Lufthansa Group.  
+- Leading **design and implementation** of observability solutions across Lufthansa Group focusing on automation, self-service and cost-effectiveness, leveraging industry standards and AI-driven approaches.  
 - Architecting **log aggregation & monitoring** systems, integrating **AI/ML for predictive analytics**.  
 - Spearheading **OpenTelemetry adoption** for enhanced and standardized telemetry data collection.  
 
