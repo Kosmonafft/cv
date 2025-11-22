@@ -45,7 +45,7 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 ## **Work Experience**  
 
 ### **Enterprise Solution Architect Observability Plaform**
-📍 **Lufthansa Group Digital Hangar, Frankfur
+📍 **Lufthansa Group Digital Hangar, Frankfurt
 🗓️ **Ocober 2025 - Present**
 - Enterprise Solution Architect Observability Platform
 - Architect and deliver secure, scalable cloud native platforms by defining standards for telemetry, identity, networking and data protection.
