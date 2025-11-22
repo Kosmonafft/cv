@@ -108,5 +108,3 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 - 🎓 **Project Management** – Next-Level Academy  
 
 ---
-
-This Markdown format ensures **clear structure, readability, and easy conversion** to other formats (e.g., PDF, HTML). Let me know if you’d like any refinements! 🚀  
