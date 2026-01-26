@@ -44,6 +44,14 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 
 ## **Work Experience**  
 
+### **Enterprise Solution Architect Observability Plaform**
+📍 **Lufthansa Group Digital Hangar, Frankfurt**
+🗓️ **Ocober 2025 - Present**
+- Enterprise Solution Architect Observability Platform
+- Architect and deliver secure, scalable cloud native platforms by defining standards for telemetry, identity, networking and data protection.
+- Enable cross team adoption through reusable automation (IaC/GitOps), APIs and operator patterns that enforce security and compliance.
+- Translate business requirements into secure technical designs that balance cost, operability and regulatory needs across multi tenant environments.
+
 ### **Observability Expert**  
 📍 **Lufthansa Industry Solutions, Hamburg**  
 🗓️ **January 2024 – Present**  
@@ -52,8 +60,8 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 - Spearheading **OpenTelemetry adoption** for enhanced and standardized telemetry data collection.  
 
 ### **Tech Lead | Enterprise Logging Service**  
-📍 **Lufthansa Industry Solutions**  
-🗓️ **January 2020 – January 2024**  
+📍 **Lufthansa Industry Solutions, Hamburg**  
+🗓️ **January 2020 – Present**  
 - Designed and implemented a **centralized Logging Service using Elastic** for **Azure-based platforms**.  
 - Collected logs and metrics for all customers, ensuring **seamless out-of-the-box observability**.  
 - Developed **RBAC-based access controls**, enabling **instant** log access without extra setup.  
@@ -100,5 +108,3 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 - 🎓 **Project Management** – Next-Level Academy  
 
 ---
-
-This Markdown format ensures **clear structure, readability, and easy conversion** to other formats (e.g., PDF, HTML). Let me know if you’d like any refinements! 🚀  
