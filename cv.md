@@ -39,18 +39,20 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 - ⭐⭐⭐☆☆ **Kubernetes**  
 - ⭐⭐⭐☆☆ **Terraform**  
 - ⭐⭐⭐☆☆ **GitOps**  
+- ⭐⭐⭐☆☆ **AI Agents (Skills & MCP Servers)**  
 
 ---
 
 ## **Work Experience**  
 
-### **Enterprise Solution Architect Observability Plaform**
+### **Platform Architect Observability Plaform**
 📍 **Lufthansa Group Digital Hangar, Frankfurt**
 🗓️ **Ocober 2025 - Present**
-- Enterprise Solution Architect Observability Platform
+- Platform Architect Observability Platform
 - Architect and deliver secure, scalable cloud native platforms by defining standards for telemetry, identity, networking and data protection.
 - Enable cross team adoption through reusable automation (IaC/GitOps), APIs and operator patterns that enforce security and compliance.
 - Translate business requirements into secure technical designs that balance cost, operability and regulatory needs across multi tenant environments.
+- Leverage **AI agents** in daily work to accelerate design, automation, and operational tasks.
 
 ### **Observability Expert**  
 📍 **Lufthansa Industry Solutions, Hamburg**  
