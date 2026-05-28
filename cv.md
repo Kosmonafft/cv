@@ -1,6 +1,6 @@
 
 # Konstantin Weiss  
-**DevOps Engineer | Observability Expert | Tech Lead | Product Owner**  
+**Solution & Platform Architect | Observability Expert | Tech Lead | Product Owner**  
 
 📍 **Hamburg**  
 📞 **+49 176 21900532**  
@@ -9,9 +9,9 @@
 ---
 
 ## **Summary**  
-Experienced in **SAFe-agile enterprise teams**, delivering **DevOps and observability solutions**. Led **enterprise-wide logging and monitoring** with **Elasticsearch, AI/ML, OpenTelemetry**. Designed **CMDB, automation, and monitoring integrations** for seamless operations. Managed **platforms, architecture, and pricing for services**.  
+Experienced **Solution & Platform Architect** and **Observability Expert** in SAFe-agile enterprise teams. Designs and delivers **secure, scalable cloud-native platforms** with standards for telemetry, identity, and data protection. Led **enterprise-wide logging and monitoring** with **Elasticsearch, AI/ML, and OpenTelemetry** across Lufthansa Group.  
 
-Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. Passionate about **automation, scalability, and cost-efficient solutions**. Skilled in aligning **technical and business goals**, engaging **developers to senior management**.  
+Expert in **Azure, OpenShift, Kubernetes, GitOps, CI/CD, and IaC**. Actively leverages **AI agents** to accelerate design, automation, and operations. Passionate about **scalability, cost-efficiency, and security**. Skilled at bridging **technical and business goals** across developers to senior leadership.  
 
 ---
 
