@@ -45,10 +45,10 @@ Expert in **Azure, Kubernetes, OpenShift, Terraform, Ansible, GitOps, CI/CD**. P
 
 ## **Work Experience**  
 
-### **Platform Architect Observability Plaform**
+### **Solution and Platform Architect Observability Plaform**
 📍 **Lufthansa Group Digital Hangar, Frankfurt**
 🗓️ **Ocober 2025 - Present**
-- Platform Architect Observability Platform
+- Solution and Platform Architect Observability Platform
 - Architect and deliver secure, scalable cloud native platforms by defining standards for telemetry, identity, networking and data protection.
 - Enable cross team adoption through reusable automation (IaC/GitOps), APIs and operator patterns that enforce security and compliance.
 - Translate business requirements into secure technical designs that balance cost, operability and regulatory needs across multi tenant environments.
